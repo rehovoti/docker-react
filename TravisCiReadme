@@ -1,0 +1,14 @@
+activate repo - from the profile
+MoreOptions -> Settings -> Environment Variables
+Add 2 env vars for AWS:
+ AccessKeyId:  AKIAZOIWZN2YFRHKILW5
+ SecretAccessKey: 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
+
+AWS:
+ elastic beanstalk
+ to see bucket name: Services -> s3 scalable storage on the cloud
+ services->iam : manage users,etc
+
+ AccessKeyId:  AKIAZOIWZN2YFRHKILW5
+ SecretAccessKey: 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
+
